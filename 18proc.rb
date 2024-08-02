@@ -1,0 +1,1 @@
+#Converter um bloco recebido em um proc
